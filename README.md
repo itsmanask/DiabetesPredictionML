@@ -1,2 +1,26 @@
-# DiabetesPredictionML
-This mini project demonstrates how machine learning and data visualization can be applied to predict diabetes by analyzing key medical features. Using ML models and Power BI dashboards, it provides both predictive and interpretive insights to support healthcare analytics.
+# 🧠 Diabetes Prediction Using Machine Learning
+
+This mini project applies machine learning and data visualization to predict diabetes using health-related features. It combines powerful models with interactive dashboards for deeper insight and smarter healthcare decisions.
+
+---
+
+## 📊 Overview
+
+- **Goal**: Predict whether a person has diabetes based on medical data
+- **Dataset**: Pima Indian Diabetes Dataset
+- **Tools Used**:
+  - Python for model building
+  - Power BI for visualization
+
+---
+
+## 🤖 Machine Learning Models Used
+
+- Logistic Regression  
+- Support Vector Machine (SVM)  
+- Random Forest  
+- XGBoost  
+- LightGBM  
+- CatBoost  
+
+Each model was evaluated for accuracy and generalization using cross-validation.
