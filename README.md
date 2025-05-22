@@ -22,5 +22,3 @@ This mini project applies machine learning and data visualization to predict dia
 - XGBoost  
 - LightGBM  
 - CatBoost  
-
-Each model was evaluated for accuracy and generalization using cross-validation.
