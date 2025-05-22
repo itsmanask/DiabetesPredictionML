@@ -1,6 +1,6 @@
 # 🧠 Diabetes Prediction Using Machine Learning
 
-This mini project applies machine learning and data visualization to predict diabetes using health-related features. It combines powerful models with interactive dashboards for deeper insight and smarter healthcare decisions.
+This mini project applies machine learning and data visualization to predict diabetes using health-related features. It compares powerful models with interactive dashboards for deeper insight and smarter healthcare decisions.
 
 ---
 
